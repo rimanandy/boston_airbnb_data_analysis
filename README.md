@@ -1,11 +1,11 @@
 **Table of Contents**
 
-**Installation**
-**Introducing a Dataset**
-**Project Motivation**
-**Data Preparation**
-**File Descriptions**
-**Results**
+**1.Installation**
+**2.Introducing a Dataset**
+**3.Project Motivation**
+**4.Data Preparation**
+**5.File Descriptions**
+**6.Results**
 
 **Installation**
 For running this project, the most important library is Python version of Anaconda Distribution. It installs all necessary packages for analysis and building models.
