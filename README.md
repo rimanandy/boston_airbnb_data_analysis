@@ -1,5 +1,5 @@
 # Airbnb Boston Data Analysis Project for Udacity Data Scientist NanoDegree
-**Table of Contents**
+# Table of Contents
 
 **1.Installation**
 **2.Introducing a Dataset**
@@ -32,8 +32,8 @@ City column had a lot of duplicate entries with few case-sensitive entries, spac
 **File Descriptions**-
 There is a notebook available here to showcase work related to the above questions and wrangling process. There are 3 data files used to address the above qustions
 
-reviews.csv - it has data related to listing's reviews.
-calendar.csv - it contains listing's calendar and availability info
+reviews.csv - it has data related to listing's reviews,
+calendar.csv - it contains listing's calendar and availability info,
 listings.csv - it anchors all data about listings.
 
 **Results**-
