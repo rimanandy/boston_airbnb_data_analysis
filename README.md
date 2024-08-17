@@ -1,4 +1,8 @@
 
+
+![airbnb_logo_detail](https://github.com/user-attachments/assets/fda3f921-e0ef-4fa5-aa92-7683a2231406)
+
+
 # Airbnb Boston Data Analysis Project for Udacity Data Scientist NanoDegree
 # Table of Contents
 
