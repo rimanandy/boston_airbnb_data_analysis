@@ -42,5 +42,5 @@ calendar.csv - it contains listing's calendar and availability info,
 listings.csv - it anchors all data about listings.
 
 **Results**-
-The main observations of the code are published here.
+The main observations of the code are published here in my Medium Blog at  https://medium.com/@nandyrima/airbnb-a-data-driven-story-fbce0c7e0b00.
 
